@@ -1,4 +1,5 @@
-tes saja
-saja hanya tes
-silakan melakukan perubahan pada file git yang telah tersimpan sebelumnya
-sudah dilakukan perubahan
+Latihan GIT
+- Membuat akun GIT
+- mengetahui commad dasar GIT
+- melakukan perubahan 
+- melakukan perubahan GT sebagai tugas
